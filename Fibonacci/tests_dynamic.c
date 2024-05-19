@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 
-#include "fibonacci-sequence.c" // contains fib()
+#include "fibonacci-sequence-dynamic.c" // test Dynamic
 
 int main(void){
 
